@@ -1,0 +1,58 @@
+C:\Users\HUY\Google Drive\Project\Source\SaleManager\SaleManager\bin\Debug\SaleManager.exe.config
+C:\Users\HUY\Google Drive\Project\Source\SaleManager\SaleManager\obj\Debug\SaleManager.csprojResolveAssemblyReference.cache
+C:\Users\HUY\Google Drive\Project\Source\SaleManager\SaleManager\obj\Debug\SaleManager.Form1.resources
+C:\Users\HUY\Google Drive\Project\Source\SaleManager\SaleManager\obj\Debug\SaleManager.Login_Dialog.resources
+C:\Users\HUY\Google Drive\Project\Source\SaleManager\SaleManager\obj\Debug\SaleManager.Properties.Resources.resources
+C:\Users\HUY\Google Drive\Project\Source\SaleManager\SaleManager\obj\Debug\SaleManager.csproj.GenerateResource.Cache
+C:\Users\HUY\Google Drive\Project\Source\SaleManager\SaleManager\bin\Debug\SaleManager.exe
+C:\Users\HUY\Google Drive\Project\Source\SaleManager\SaleManager\bin\Debug\SaleManager.pdb
+C:\Users\HUY\Google Drive\Project\Source\SaleManager\SaleManager\bin\Debug\MySql.Data.dll
+C:\Users\HUY\Google Drive\Project\Source\SaleManager\SaleManager\obj\Debug\SaleManager.exe
+C:\Users\HUY\Google Drive\Project\Source\SaleManager\SaleManager\obj\Debug\SaleManager.pdb
+D:\Daniel\GSM London\Year 3 Sem 1\Software Development\Project\SaleManager v1.0.1 (1)\SaleManager\SaleManager\obj\Debug\SaleManager.Form1.resources
+D:\Daniel\GSM London\Year 3 Sem 1\Software Development\Project\SaleManager v1.0.1 (1)\SaleManager\SaleManager\obj\Debug\SaleManager.Login_Dialog.resources
+D:\Daniel\GSM London\Year 3 Sem 1\Software Development\Project\SaleManager v1.0.1 (1)\SaleManager\SaleManager\obj\Debug\SaleManager.Properties.Resources.resources
+D:\Daniel\GSM London\Year 3 Sem 1\Software Development\Project\SaleManager v1.0.1 (1)\SaleManager\SaleManager\obj\Debug\SaleManager.csproj.GenerateResource.Cache
+D:\Daniel\GSM London\Year 3 Sem 1\Software Development\Project\SaleManager v1.0.1 (1)\SaleManager\SaleManager\bin\Debug\SaleManager.exe.config
+D:\Daniel\GSM London\Year 3 Sem 1\Software Development\Project\SaleManager v1.0.1 (1)\SaleManager\SaleManager\bin\Debug\SaleManager.exe
+D:\Daniel\GSM London\Year 3 Sem 1\Software Development\Project\SaleManager v1.0.1 (1)\SaleManager\SaleManager\bin\Debug\SaleManager.pdb
+D:\Daniel\GSM London\Year 3 Sem 1\Software Development\Project\SaleManager v1.0.1 (1)\SaleManager\SaleManager\bin\Debug\MySql.Data.dll
+D:\Daniel\GSM London\Year 3 Sem 1\Software Development\Project\SaleManager v1.0.1 (1)\SaleManager\SaleManager\bin\Debug\MySql.Data.xml
+D:\Daniel\GSM London\Year 3 Sem 1\Software Development\Project\SaleManager v1.0.1 (1)\SaleManager\SaleManager\obj\Debug\SaleManager.exe
+D:\Daniel\GSM London\Year 3 Sem 1\Software Development\Project\SaleManager v1.0.1 (1)\SaleManager\SaleManager\obj\Debug\SaleManager.pdb
+D:\Daniel\GSM London\Year 3 Sem 1\Software Development\Project\SaleManager v1.0.1 (1)\SaleManager\SaleManager\obj\Debug\SaleManager.csprojResolveAssemblyReference.cache
+D:\Project\Info\SaleManager_v1.0.1 edit\SaleManager\SaleManager\bin\Debug\SaleManager.exe.config
+D:\Project\Info\SaleManager_v1.0.1 edit\SaleManager\SaleManager\obj\Debug\SaleManager.exe
+D:\Project\Info\SaleManager_v1.0.1 edit\SaleManager\SaleManager\obj\Debug\SaleManager.pdb
+D:\Project\Info\SaleManager_v1.0.1 edit\SaleManager\SaleManager\obj\Debug\SaleManager.csprojResolveAssemblyReference.cache
+D:\Project\Info\SaleManager_v1.0.1 edit\SaleManager\SaleManager\obj\Debug\SaleManager.Form1.resources
+D:\Project\Info\SaleManager_v1.0.1 edit\SaleManager\SaleManager\obj\Debug\SaleManager.Login_Dialog.resources
+D:\Project\Info\SaleManager_v1.0.1 edit\SaleManager\SaleManager\obj\Debug\SaleManager.Properties.Resources.resources
+D:\Project\Info\SaleManager_v1.0.1 edit\SaleManager\SaleManager\obj\Debug\SaleManager.csproj.GenerateResource.Cache
+D:\Project\Info\SaleManager_v1.0.1 edit\SaleManager\SaleManager\bin\Debug\SaleManager.exe
+D:\Project\Info\SaleManager_v1.0.1 edit\SaleManager\SaleManager\bin\Debug\SaleManager.pdb
+D:\Project\Info\SaleManager_v1.0.1 edit\SaleManager\SaleManager\bin\Debug\MySql.Data.xml
+D:\Daniel\GSM London\Year 3 Sem 1\Software Development\Project\SalesManager_v_1.0.2\SaleManager v1.0.2\SaleManager v1.0.2\SaleManager\obj\Debug\SaleManager.Form1.resources
+D:\Daniel\GSM London\Year 3 Sem 1\Software Development\Project\SalesManager_v_1.0.2\SaleManager v1.0.2\SaleManager v1.0.2\SaleManager\obj\Debug\SaleManager.Login_Dialog.resources
+D:\Daniel\GSM London\Year 3 Sem 1\Software Development\Project\SalesManager_v_1.0.2\SaleManager v1.0.2\SaleManager v1.0.2\SaleManager\obj\Debug\SaleManager.Properties.Resources.resources
+D:\Daniel\GSM London\Year 3 Sem 1\Software Development\Project\SalesManager_v_1.0.2\SaleManager v1.0.2\SaleManager v1.0.2\SaleManager\obj\Debug\SaleManager.csproj.GenerateResource.Cache
+D:\Daniel\GSM London\Year 3 Sem 1\Software Development\Project\SalesManager_v_1.0.2\SaleManager v1.0.2\SaleManager v1.0.2\SaleManager\bin\Debug\SaleManager.exe.config
+D:\Daniel\GSM London\Year 3 Sem 1\Software Development\Project\SalesManager_v_1.0.2\SaleManager v1.0.2\SaleManager v1.0.2\SaleManager\bin\Debug\SaleManager.exe
+D:\Daniel\GSM London\Year 3 Sem 1\Software Development\Project\SalesManager_v_1.0.2\SaleManager v1.0.2\SaleManager v1.0.2\SaleManager\bin\Debug\SaleManager.pdb
+D:\Daniel\GSM London\Year 3 Sem 1\Software Development\Project\SalesManager_v_1.0.2\SaleManager v1.0.2\SaleManager v1.0.2\SaleManager\bin\Debug\MySql.Data.dll
+D:\Daniel\GSM London\Year 3 Sem 1\Software Development\Project\SalesManager_v_1.0.2\SaleManager v1.0.2\SaleManager v1.0.2\SaleManager\bin\Debug\MySql.Data.xml
+D:\Daniel\GSM London\Year 3 Sem 1\Software Development\Project\SalesManager_v_1.0.2\SaleManager v1.0.2\SaleManager v1.0.2\SaleManager\obj\Debug\SaleManager.exe
+D:\Daniel\GSM London\Year 3 Sem 1\Software Development\Project\SalesManager_v_1.0.2\SaleManager v1.0.2\SaleManager v1.0.2\SaleManager\obj\Debug\SaleManager.pdb
+D:\Daniel\GSM London\Year 3 Sem 1\Software Development\Project\SalesManager_v_1.0.2\SaleManager v1.0.2\SaleManager v1.0.2\SaleManager\obj\Debug\SaleManager.csprojResolveAssemblyReference.cache
+D:\Daniel\GSM London\Year 3 Sem 1\Software Development\Project\SalesManager_v_1.0.2\SaleManager v1.0.2\Point_of_Sale_Application_Alexandru_D_Opre_PC304_Assignment\SaleManager\bin\Debug\SaleManager.exe.config
+D:\Daniel\GSM London\Year 3 Sem 1\Software Development\Project\SalesManager_v_1.0.2\SaleManager v1.0.2\Point_of_Sale_Application_Alexandru_D_Opre_PC304_Assignment\SaleManager\obj\Debug\SaleManager.exe
+D:\Daniel\GSM London\Year 3 Sem 1\Software Development\Project\SalesManager_v_1.0.2\SaleManager v1.0.2\Point_of_Sale_Application_Alexandru_D_Opre_PC304_Assignment\SaleManager\obj\Debug\SaleManager.pdb
+D:\Daniel\GSM London\Year 3 Sem 1\Software Development\Project\SalesManager_v_1.0.2\SaleManager v1.0.2\Point_of_Sale_Application_Alexandru_D_Opre_PC304_Assignment\SaleManager\bin\Debug\SaleManager.exe
+D:\Daniel\GSM London\Year 3 Sem 1\Software Development\Project\SalesManager_v_1.0.2\SaleManager v1.0.2\Point_of_Sale_Application_Alexandru_D_Opre_PC304_Assignment\SaleManager\bin\Debug\SaleManager.pdb
+D:\Daniel\GSM London\Year 3 Sem 1\Software Development\Project\SalesManager_v_1.0.2\SaleManager v1.0.2\Point_of_Sale_Application_Alexandru_D_Opre_PC304_Assignment\SaleManager\bin\Debug\MySql.Data.dll
+D:\Daniel\GSM London\Year 3 Sem 1\Software Development\Project\SalesManager_v_1.0.2\SaleManager v1.0.2\Point_of_Sale_Application_Alexandru_D_Opre_PC304_Assignment\SaleManager\bin\Debug\MySql.Data.xml
+D:\Daniel\GSM London\Year 3 Sem 1\Software Development\Project\SalesManager_v_1.0.2\SaleManager v1.0.2\Point_of_Sale_Application_Alexandru_D_Opre_PC304_Assignment\SaleManager\obj\Debug\SaleManager.csprojResolveAssemblyReference.cache
+D:\Daniel\GSM London\Year 3 Sem 1\Software Development\Project\SalesManager_v_1.0.2\SaleManager v1.0.2\Point_of_Sale_Application_Alexandru_D_Opre_PC304_Assignment\SaleManager\obj\Debug\SaleManager.Form1.resources
+D:\Daniel\GSM London\Year 3 Sem 1\Software Development\Project\SalesManager_v_1.0.2\SaleManager v1.0.2\Point_of_Sale_Application_Alexandru_D_Opre_PC304_Assignment\SaleManager\obj\Debug\SaleManager.Login_Dialog.resources
+D:\Daniel\GSM London\Year 3 Sem 1\Software Development\Project\SalesManager_v_1.0.2\SaleManager v1.0.2\Point_of_Sale_Application_Alexandru_D_Opre_PC304_Assignment\SaleManager\obj\Debug\SaleManager.Properties.Resources.resources
+D:\Daniel\GSM London\Year 3 Sem 1\Software Development\Project\SalesManager_v_1.0.2\SaleManager v1.0.2\Point_of_Sale_Application_Alexandru_D_Opre_PC304_Assignment\SaleManager\obj\Debug\SaleManager.csproj.GenerateResource.Cache
